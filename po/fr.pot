@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-13 11:08+0100\n"
+"PO-Revision-Date: 2022-12-13 10:00+0100\n"
+"Last-Translator: LUIS CUTILLAS <LCA25@ALU.UA.ES>\n"
+"Language-Team: FRENCH-TEAM <LL@li.org>\n"
+"Language: FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: calculadora.cc:52
+msgid "Error. El simbolo de operacion no es valido"
+msgstr "Erreur. Le symbole d'opération n'est pas valide"
+
+#: calculadora.cc:42
+msgid ""
+"Introduce un numero, el simbolo de operacion y otro numero, separados por "
+"espacios: "
+msgstr ""
+"Entrez un nombre, le symbole de l'opération et un autre nombre, séparés par "
+"des espaces: "
+
+#: calculadora.cc:54
+msgid "Operacion terminada. Comenzando otra operacion..."
+msgstr "Opération terminée. Démarrage d'une autre opération..."
+
+#: calculadora.cc:48 calculadora.cc:49 calculadora.cc:50 calculadora.cc:51
+msgid "Resultado: "
+msgstr "Resultat: "
