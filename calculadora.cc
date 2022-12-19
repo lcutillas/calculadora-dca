@@ -38,6 +38,7 @@ int main(){
     float num1;
     char op;
     float num2;
+    cout << "Bienvenido/a a la calculadora :)" << endl;
     do{
         cout <<  _("Introduce un numero, el simbolo de operacion y otro numero, separados por espacios: ") << endl;
         cin >> num1;
