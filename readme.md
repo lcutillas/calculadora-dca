@@ -22,4 +22,5 @@
 - Ejecutamos 'git bisect reset' para volver al commit en el que estábamos antes de iniciar la búsqueda con bisect.
 
 ## Hooks de git:
-- Hemos creado un hook que comprueba que los mensajes de commit tienen al menos 3 palabras. Hemos introducido el script en la carpeta 'hooks' que se encuentra dentro de la carpeta '.git' del proyecto. Además, le hemos otorgado permisos de ejecución con chmod.
+- Hemos creado un hook que comprueba que los mensajes de commit tienen al menos 3 palabras. Lo hemos realizado mediante un script de python. Hemos introducido el script en la carpeta 'hooks' que se encuentra dentro de la carpeta '.git' del proyecto. Además, le hemos otorgado permisos de ejecución con chmod.
+
